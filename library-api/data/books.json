@@ -1,0 +1,86 @@
+[
+  {
+    "id": "book-001",
+    "title": "The Great Gatsby",
+    "isbn": "978-0-7432-7356-5",
+    "authorId": "author-001",
+    "categoryId": "category-001",
+    "publishedYear": 1925,
+    "availableCopies": 3,
+    "totalCopies": 5,
+    "createdAt": "2024-08-14T10:30:00.000Z"
+  },
+  {
+    "id": "book-002",
+    "title": "To Kill a Mockingbird",
+    "isbn": "978-0-06-112008-4",
+    "authorId": "author-002",
+    "categoryId": "category-001",
+    "publishedYear": 1960,
+    "availableCopies": 2,
+    "totalCopies": 4,
+    "createdAt": "2024-08-14T10:31:00.000Z"
+  },
+  {
+    "id": "book-003",
+    "title": "1984",
+    "isbn": "978-0-452-28423-4",
+    "authorId": "author-003",
+    "categoryId": "category-002",
+    "publishedYear": 1949,
+    "availableCopies": 1,
+    "totalCopies": 3,
+    "createdAt": "2024-08-14T10:32:00.000Z"
+  },
+  {
+    "id": "7ec91673-08c3-4f1c-a7c9-00c01ec7ff9f",
+    "title": "xxxxx",
+    "author": "F. Scott Fitzgerald",
+    "isbn": "978-0-7432-7356-9",
+    "publishedYear": 1925,
+    "createdAt": "2025-08-21T11:24:21.027Z",
+    "updatedAt": "2025-08-21T11:24:21.027Z"
+  },
+  {
+    "id": "befb84aa-b64e-421d-bde8-2b948c9b870d",
+    "title": "xxxxx",
+    "author": "F. Scott Fitzgerald",
+    "isbn": "17",
+    "publishedYear": 1925,
+    "createdAt": "2025-08-21T11:24:38.997Z",
+    "updatedAt": "2025-08-21T11:24:38.997Z"
+  },
+  {
+    "id": "book-007",
+    "title": "Jame Yellow",
+    "author": "PATz",
+    "isbn": "007",
+    "publishedYear": 1925,
+    "createdAt": "2024-08-14T10:30:00.000Z",
+    "updatedAt": "2025-08-21T13:12:56.554Z",
+    "authorId": "author-007",
+    "categoryId": "category-007",
+    "availableCopies": 3,
+    "totalCopies": 5
+  },
+  {
+    "id": "9494a428-16b1-48c6-b9b7-8907696c3d5b",
+    "title": "10",
+    "authorId": "10",
+    "categoryId": "10",
+    "isbn": "1150",
+    "publishedYear": 1925,
+    "createdAt": "2025-08-22T11:55:20.328Z",
+    "updatedAt": "2025-08-22T11:55:20.329Z"
+  },
+  {
+    "id": "1e0a603b-607d-4335-939d-1a2dd8e2722c",
+    "title": "99",
+    "authorId": "999",
+    "categoryId": "9999",
+    "isbn": "9999",
+    "publishedYear": 1925,
+    "createdAt": "2025-08-22T11:56:00.807Z",
+    "updatedAt": "2025-08-22T11:56:00.807Z"
+  }
+]

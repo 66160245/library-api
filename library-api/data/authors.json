@@ -1,0 +1,54 @@
+[
+  {
+    "id": "author-001",
+    "name": "F. Scott Fitzgerald",
+    "birthYear": 1896,
+    "nationality": "American",
+    "biography": "American novelist and short story writer",
+    "createdAt": "2024-08-14T10:30:00.000Z"
+  },
+  {
+    "id": "author-002",
+    "name": "Harper Lee",
+    "birthYear": 1926,
+    "nationality": "American",
+    "biography": "American novelist widely known for To Kill a Mockingbird",
+    "createdAt": "2024-08-14T10:31:00.000Z"
+  },
+  {
+    "id": "author-003",
+    "name": "George Orwell",
+    "birthYear": 1903,
+    "nationality": "British",
+    "biography": "English novelist and essayist",
+    "createdAt": "2024-08-14T10:32:00.000Z"
+  },
+  {
+    "id": "cddbc164-9269-471a-8562-2578f8c5a3a3",
+    "name": "F. asdasdasderald",
+    "createdAt": "2025-08-21T12:15:09.918Z",
+    "updatedAt": "2025-08-21T12:15:09.920Z"
+  },
+  {
+    "id": "9787ca6a-9435-4128-a2b5-26829d8a3d97",
+    "name": "F. asdasdasderald",
+    "biography": "American novelist and short story writer",
+    "createdAt": "2025-08-21T12:23:42.659Z",
+    "updatedAt": "2025-08-21T12:23:42.660Z"
+  },
+  {
+    "id": "79102954-11a1-4dcd-8ea0-03be222dcf71",
+    "name": "Jame Moriaty",
+    "birthYear": 2010,
+    "nationality": "African",
+    "biography": "BKK ENNNNNN",
+    "createdAt": "2025-08-21T12:51:35.325Z",
+    "updatedAt": "2025-08-21T13:15:09.017Z"
+  },
+  {
+    "id": "d4600bda-0515-4ac5-ab08-7c7b093c7014",
+    "name": "Computer Fiction",
+    "createdAt": "2025-08-21T12:52:05.222Z",
+    "updatedAt": "2025-08-21T12:52:05.224Z"
+  }
+]

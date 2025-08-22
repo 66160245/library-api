@@ -1,0 +1,27 @@
+[
+  {
+    "id": "category-001",
+    "name": "Classic Literature",
+    "description": "Timeless literary works that have stood the test of time",
+    "createdAt": "2024-08-14T10:30:00.000Z"
+  },
+  {
+    "id": "category-002",
+    "name": "Dystopian Fiction",
+    "description": "Literature depicting imaginary societies where something is terribly wrong",
+    "createdAt": "2024-08-14T10:31:00.000Z"
+  },
+  {
+    "id": "category-003",
+    "name": "Science Fiction",
+    "description": "Fiction dealing with futuristic concepts and advanced technology",
+    "createdAt": "2024-08-14T10:32:00.000Z"
+  },
+  {
+    "id": "fd0fb192-fb32-420f-9f5b-0c612f969882",
+    "name": "Kid",
+    "description": "Cartoon",
+    "createdAt": "2025-08-21T13:16:56.485Z",
+    "updatedAt": "2025-08-21T13:16:56.485Z"
+  }
+]
